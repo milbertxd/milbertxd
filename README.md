@@ -2,10 +2,10 @@
 
 # ⚡ Milbert XD
 
-### IC Design • Digital Systems • Hardware Innovation
+### IC Layout Engineer • Data Engineer • AI Engineer
 
 <p>
-  <em>Exploring the intersection of silicon, software, and intelligent systems.</em>
+  <em>Designing silicon layouts, building reliable data systems, and developing intelligent engineering solutions.</em>
 </p>
 
 <p>
@@ -20,56 +20,77 @@
 
 ## 🧭 About Me
 
-I am building at the boundary between **integrated-circuit design, digital engineering, and software**. My interests span the complete hardware journey—from defining an idea and modeling behavior to creating reliable, testable, and production-minded systems.
+I work across three connected engineering disciplines: **IC layout, data engineering, and artificial intelligence**. My focus is on transforming complex technical requirements into organized layouts, dependable data pipelines, and intelligent tools that support better decisions.
 
-- 🔬 Interested in **IC design, RTL, digital logic, and hardware architecture**
-- 🧩 Connecting hardware concepts with practical software products
-- 🚀 Building, experimenting, and learning through real-world projects
-- 🤝 Open to collaboration across semiconductor, FPGA, embedded, and developer-tool communities
+- 🧩 Designing and analyzing **IC layouts** with attention to physical structure, connectivity, and verification
+- 🗄️ Building data workflows that make information easier to collect, transform, validate, and use
+- 🤖 Exploring AI and machine-learning solutions for automation, analysis, and engineering productivity
+- 🔗 Connecting semiconductor engineering with software, analytics, and intelligent systems
+- 🚀 Continuously learning through practical projects, experimentation, and documentation
 
 ---
 
-## 🧱 IC Design Focus
+## 🧱 Engineering Focus
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 Digital Design
+### 🟦 IC Layout Engineering
 
-- RTL architecture
-- Verilog / SystemVerilog
-- FSMs and datapaths
-- Pipelining and timing concepts
-- Design verification
-
-</td>
-<td width="33%" valign="top">
-
-### 🏗️ Silicon Thinking
-
-- ASIC design flow
-- FPGA prototyping
-- PPA-aware design
-- Interfaces and system integration
-- Hardware/software co-design
+- Physical layout concepts
+- CMOS and analog layout fundamentals
+- Floorplanning and placement
+- Routing and connectivity
+- Design-rule awareness
+- Layout-versus-schematic thinking
+- Parasitic and physical effects
 
 </td>
 <td width="33%" valign="top">
 
-### 🧪 Engineering Practice
+### 🟩 Data Engineering
 
-- Modular architecture
-- Simulation and testing
-- Documentation
-- Automation and tooling
+- Data pipelines and ETL
+- Data cleaning and validation
+- Database design
+- Structured data processing
+- Automation and reporting
+- Analytics-ready architectures
 - Reproducible workflows
+
+</td>
+<td width="33%" valign="top">
+
+### 🟪 AI Engineering
+
+- Python-based AI workflows
+- Machine-learning experimentation
+- Data preparation for models
+- Intelligent automation
+- Model integration
+- AI-assisted engineering tools
+- Practical problem solving
 
 </td>
 </tr>
 </table>
 
-> **Design principle:** make every layer observable, testable, and easier to improve.
+> **Engineering principle:** create systems that are precise, verifiable, scalable, and useful in the real world.
+
+---
+
+## 🔬 How the Disciplines Connect
+
+```text
+IC Layout Engineering  ──►  Structured technical data  ──►  AI-assisted engineering
+        │                              │                              │
+ Physical design                  ETL & analysis                 Automation & insight
+        │                              │                              │
+        └────────────── Better decisions, workflows, and products ────┘
+```
+
+I am especially interested in using data and AI to improve engineering workflows while maintaining the precision required in semiconductor design.
 
 ---
 
@@ -77,7 +98,7 @@ I am building at the boundary between **integrated-circuit design, digital engin
 
 ### [CDI SAKATA INX CORP](https://github.com/milbertxd/CDI-SAKATA-INX-CORP-)
 
-A large-scale technical project that represents my interest in building structured, domain-focused systems. I am using this work as a foundation for connecting software engineering discipline with hardware and IC-design thinking.
+A large-scale technical project reflecting my interest in structured systems, engineering workflows, and the connection between domain knowledge and software tools.
 
 <p>
   <a href="https://github.com/milbertxd/CDI-SAKATA-INX-CORP-"><img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
@@ -85,7 +106,7 @@ A large-scale technical project that represents my interest in building structur
 
 ### More projects
 
-Explore my repositories for experiments, prototypes, and systems in progress:
+Explore my repositories for experiments and projects related to software, data, automation, and engineering systems.
 
 <p>
   <a href="https://github.com/milbertxd?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
@@ -97,13 +118,15 @@ Explore my repositories for experiments, prototypes, and systems in progress:
 
 <div align="center">
 
-![Verilog](https://img.shields.io/badge/Verilog-111827?style=for-the-badge&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0f766e?style=for-the-badge&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-7c3aed?style=for-the-badge&logoColor=white)
+![IC Layout](https://img.shields.io/badge/IC%20Layout-0f172a?style=for-the-badge&logoColor=white)
 ![ASIC](https://img.shields.io/badge/ASIC-1d4ed8?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-7c3aed?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0891b2?style=for-the-badge&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-9333ea?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -130,22 +153,22 @@ Explore my repositories for experiments, prototypes, and systems in progress:
 ## 🔭 Current Direction
 
 ```text
-IC design mindset  ──►  System architecture  ──►  Useful products
-       │                         │                         │
-   RTL & logic              Verification              Software + hardware
+Physical design  ──►  Data-driven workflows  ──►  AI-powered engineering
+      │                         │                         │
+ IC layout                  Data systems              Intelligent tools
 ```
 
-I am especially interested in projects that make complex technical systems easier to understand, validate, and use.
+My goal is to keep developing at the intersection of **semiconductor layout, scalable data, and applied AI**.
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you are working on **IC design, ASIC/FPGA development, embedded systems, verification, or hardware-enabled software**, feel free to connect or open a discussion through GitHub.
+If you are working on **IC layout, semiconductor design, data engineering, AI engineering, automation, or intelligent hardware tools**, feel free to connect or collaborate through GitHub.
 
 <div align="center">
 
-### Build thoughtfully. Verify relentlessly. Ship intelligently. ⚡
+### Precision in layout. Discipline in data. Intelligence in systems. ⚡
 
 <a href="https://github.com/milbertxd">GitHub</a> · <a href="https://github.com/milbertxd?tab=repositories">Repositories</a>
 
