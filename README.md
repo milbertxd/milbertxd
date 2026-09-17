@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Milbert XD
+# Milbert XD
 
 ### IC Layout Engineer • Data Engineer • AI Engineer
 
@@ -18,25 +18,25 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I work across three connected engineering disciplines: **IC layout, data engineering, and artificial intelligence**. My focus is on transforming complex technical requirements into organized layouts, dependable data pipelines, and intelligent tools that support better decisions.
 
-- 🧩 Designing and analyzing **IC layouts** with attention to physical structure, connectivity, and verification
-- 🗄️ Building data workflows that make information easier to collect, transform, validate, and use
-- 🤖 Exploring AI and machine-learning solutions for automation, analysis, and engineering productivity
-- 🔗 Connecting semiconductor engineering with software, analytics, and intelligent systems
-- 🚀 Continuously learning through practical projects, experimentation, and documentation
+- Designing and analyzing **IC layouts** with attention to physical structure, connectivity, and verification
+- Building data workflows that make information easier to collect, transform, validate, and use
+- Exploring AI and machine-learning solutions for automation, analysis, and engineering productivity
+- Connecting semiconductor engineering with software, analytics, and intelligent systems
+- Continuously learning through practical projects, experimentation, and documentation
 
 ---
 
-## 🧱 Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🟦 IC Layout Engineering
+### IC Layout Engineering
 
 - Physical layout concepts
 - CMOS and analog layout fundamentals
@@ -49,7 +49,7 @@ I work across three connected engineering disciplines: **IC layout, data enginee
 </td>
 <td width="33%" valign="top">
 
-### 🟩 Data Engineering
+### Data Engineering
 
 - Data pipelines and ETL
 - Data cleaning and validation
@@ -62,7 +62,7 @@ I work across three connected engineering disciplines: **IC layout, data enginee
 </td>
 <td width="33%" valign="top">
 
-### 🟪 AI Engineering
+### AI Engineering
 
 - Python-based AI workflows
 - Machine-learning experimentation
@@ -80,7 +80,7 @@ I work across three connected engineering disciplines: **IC layout, data enginee
 
 ---
 
-## 🔬 How the Disciplines Connect
+## How the Disciplines Connect
 
 ```text
 IC Layout Engineering  ──►  Structured technical data  ──►  AI-assisted engineering
@@ -94,7 +94,7 @@ I am especially interested in using data and AI to improve engineering workflows
 
 ---
 
-## ⭐ Featured Work
+## Featured Work
 
 ### [CDI SAKATA INX CORP](https://github.com/milbertxd/CDI-SAKATA-INX-CORP-)
 
@@ -114,7 +114,7 @@ Explore my repositories for experiments and projects related to software, data, 
 
 ---
 
-## 🛠️ Technology Map
+## Technology Map
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Explore my repositories for experiments and projects related to software, data, 
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -150,25 +150,25 @@ Explore my repositories for experiments and projects related to software, data, 
 
 ---
 
-## 🔭 Current Direction
+## Current Direction
 
 ```text
 Physical design  ──►  Data-driven workflows  ──►  AI-powered engineering
       │                         │                         │
- IC layout                  Data systems              Intelligent tools
+  IC layout                  Data systems              Intelligent tools
 ```
 
 My goal is to keep developing at the intersection of **semiconductor layout, scalable data, and applied AI**.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If you are working on **IC layout, semiconductor design, data engineering, AI engineering, automation, or intelligent hardware tools**, feel free to connect or collaborate through GitHub.
 
 <div align="center">
 
-### Precision in layout. Discipline in data. Intelligence in systems. ⚡
+### Precision in layout. Discipline in data. Intelligence in systems.
 
 <a href="https://github.com/milbertxd">GitHub</a> · <a href="https://github.com/milbertxd?tab=repositories">Repositories</a>
 
